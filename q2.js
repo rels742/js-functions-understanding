@@ -1,4 +1,4 @@
-// Description of what I believe the functions are doing:
+// Description of what I believe the function is doing:
 // Similarily to question 1 it is a function with two arguments being num1 and num2. However, inside the body of the fucntion althought num1 and num2 are to be added together, when this function is called, nothing will be returned or it will be undefined because there is no instruction with what to do with this operator. In example 1,return num1 + num2 is what allowed the function to carry out the mathematical operation and actually return a value. 
 
 function myFunction(num1, num2) {
