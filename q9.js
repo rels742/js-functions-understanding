@@ -6,7 +6,7 @@ function myFunction(num1, num2) {
 
 const num1 = 10;
 const num2 = 1;
-const num3 = 30;
+const num3 = 20;
 // const num4 = 17;
 
 myFunction(num3, num1);
